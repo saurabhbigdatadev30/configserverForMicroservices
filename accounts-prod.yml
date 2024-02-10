@@ -1,7 +1,3 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod1"
 build:
   version: "1.0"
 
