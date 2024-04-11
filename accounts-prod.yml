@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhook APIs"
+  message: "Hey, welcome to EazyBank accounts related webhook APIs XXXX TO TEST Spring CLoud BUS amqp"
   contactDetails:
     name: "SAURABH BANERJEE - Product Owner"
     email: "{cipher}395bc36f56b00de84993bcd25078069fc755decba964e22c4e985d33dc358fe686186ab35775b62546e757c54555c3c6"
